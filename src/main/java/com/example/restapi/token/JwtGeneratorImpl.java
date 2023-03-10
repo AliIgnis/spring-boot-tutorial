@@ -1,9 +1,8 @@
-package com.example.springboottutorial.token;
+package com.example.restapi.token;
 
-import com.example.springboottutorial.Customer;
+import com.example.restapi.Customer;
 import io.jsonwebtoken.JwtBuilder;
 import io.jsonwebtoken.SignatureAlgorithm;
-import io.jsonwebtoken.impl.TextCodec;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

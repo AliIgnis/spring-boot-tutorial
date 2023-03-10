@@ -1,4 +1,4 @@
-package com.example.springboottutorial;
+package com.example.restapi;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

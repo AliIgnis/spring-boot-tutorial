@@ -1,6 +1,6 @@
-package com.example.springboottutorial;
+package com.example.restapi;
 
-import com.example.springboottutorial.token.JwtGeneratorInterface;
+import com.example.restapi.token.JwtGeneratorInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

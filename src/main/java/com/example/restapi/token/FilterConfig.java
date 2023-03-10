@@ -1,4 +1,4 @@
-package com.example.springboottutorial.token;
+package com.example.restapi.token;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

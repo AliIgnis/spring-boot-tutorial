@@ -1,6 +1,6 @@
-package com.example.springboottutorial.token;
+package com.example.restapi.token;
 
-import com.example.springboottutorial.Customer;
+import com.example.restapi.Customer;
 
 import java.util.Map;
 
